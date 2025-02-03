@@ -1,0 +1,5 @@
+<filter>
+    <filter-name>LoggingFilter</filter-name>
+    <filter-class>com.example.LoggingFilter</filter-class>
+</filter>
+
